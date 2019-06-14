@@ -1,0 +1,91 @@
+.header {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0;
+  padding: 20px;
+  line-height: 10px;
+  background-color: #141821;
+  color: #fff;
+  border-bottom: 1px solid #cccc;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1001;
+}
+
+.brand-logo {
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.brand-logo:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.guessed {
+  margin: 0;
+  animation: growCorrect 0.5s;
+  animation-iteration-count: 1;
+}
+
+.score-details {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+}
+
+.score-details > div {
+  margin: 0px 5px;
+}
+
+@keyframes growCorrect {
+  0% {
+    transform: scale(1);
+    color: #fff;
+  }
+  25% {
+    transform: scale(1.5);
+  }
+  50% {
+    transform: scale(1.75);
+  }
+  50% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(1);
+    color: #fff;
+  }
+}
+
+@keyframes growIncorrect {
+  0% {
+    transform: scale(1);
+    color: #fff;
+  }
+  25% {
+    transform: scale(1.5);
+  }
+  50% {
+    transform: scale(1.75);
+    color: #fff;
+  }
+  50% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(1);
+    color: #fff;
+  }
+}

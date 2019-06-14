@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "all-rise",
+    "image": "./assets/images/all-rise.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "angel-has-fallen",
+    "image": "./assets/images/angel-has-fallen.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "aquarela",
+    "image": "./assets/images/aquarela.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "crawl",
+    "image": "./assets/images/crawl.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "fast&furious",
+    "image": "./assets/images/fast&furious.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "luce",
+    "image": "./assets/images/luce.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "my-spy",
+    "image": "./assets/images/my-spy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "overcomer",
+    "image": "./assets/images/overcomer.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "round-of-your-life",
+    "image": "./assets/images/round-of-your-life.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "spider-man",
+    "image": "./assets/images/spider-man.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "stuber",
+    "image": "./assets/images/stuber.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "the-informer",
+    "image": "./assets/images/the-informer.jpg",
+    "clicked": false
+  }
+]
