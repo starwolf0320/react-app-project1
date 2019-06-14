@@ -4,9 +4,7 @@ import './Header.css';
 
 const Header = props => (
   <header className='header'>
-    <a href='/' className='brand-logo'>
-      Clicky Game
-    </a>
+    <div className='brand-logo'>Clicky Game</div>
     <div>{props.isGuessed && <p className='guessed'>You Guessed!</p>}</div>
     <div className='score-details'>
       <div>
