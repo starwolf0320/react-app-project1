@@ -7,7 +7,6 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import CardList from './components/CardList';
 
-//sets state to 0 or empty
 class App extends Component {
   state = {
     movies,
