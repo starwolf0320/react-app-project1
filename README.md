@@ -14,7 +14,7 @@ The goal of this application is to use the create-react-app project as a starter
 
 ### Demo
 	
-Clicky Game is deployed on Heroku. Please check it out [here](https://mohamedsamara.github.io/Clicky-Game/).
+Clicky Game is deployed on Heroku. Please check it out [here](https://mysterious-crag-94480.herokuapp.com/).
 
 
 ### Install

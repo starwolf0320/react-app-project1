@@ -84,3 +84,10 @@
     color: #fff;
   }
 }
+
+@media (max-width: 767px) {
+  .header,
+  .brand-logo {
+    font-size: 12px;
+  }
+}
