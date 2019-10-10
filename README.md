@@ -22,7 +22,7 @@ Clicky Game is deployed on Heroku. Please check it out [here](https://mysterious
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/mohamedsamara/Clicky-Game.git
+$ git clone https://github.com/mohamedsamara/clicky-game.git
 $ cd project
 $ npm install
 
