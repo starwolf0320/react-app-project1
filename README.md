@@ -10,11 +10,7 @@ The goal of this application is to use the create-react-app project as a starter
 
 ### UI/UX 
 * Built Reusable statelss react components using ES6 and JSX 
-* Implemented Bootstrap library for styling components and building responsive layout
-
-### Demo
-	
-Clicky Game is deployed on Heroku. Please check it out [here](https://mysterious-crag-94480.herokuapp.com/).
+* Implemented Bootstrap for styling components and building responsive layout
 
 
 ### Install
@@ -28,14 +24,20 @@ $ npm install
 
 ```
 
+### Simple build for production
+
+```
+$ npm run build
+
+```
 
 ### Run the application for development
 
-npm start
+```
+$ npm start
 
-### Run the application for production
+```
 
-npm run build
 
 
 
