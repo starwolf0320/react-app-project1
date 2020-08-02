@@ -21,21 +21,18 @@ Some basic Git commands are:
 $ git clone https://github.com/mohamedsamara/clicky-game.git
 $ cd project
 $ npm install
-
 ```
 
 ### Simple build for production
 
 ```
 $ npm run build
-
 ```
 
 ### Run the application for development
 
 ```
 $ npm start
-
 ```
 
 
